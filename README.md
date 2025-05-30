@@ -1,5 +1,5 @@
 # Data-Mining
-This repository contains my solutions to assignments from a Data Mining course, implementing various machine learning algorithms and text classification techniques.
+This repository contains my solutions to assignments from Data Mining course, implementing various machine learning algorithms and text classification techniques.
 
 ## 📋 Assignments
 
